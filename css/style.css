@@ -137,13 +137,13 @@ a {
 }
 
 .back {
-  background-image: url(/img/arrow-back.png);
+  background-image: url(../img/arrow-back.png);
   background-repeat: no-repeat;
   background-position: 12px 10px;
 }
 
 .next {
-  background-image: url(/img/arrow-next.png);
+  background-image: url(../img/arrow-next.png);
   background-repeat: no-repeat;
   background-position: 14px 10px;
 }
@@ -272,7 +272,7 @@ a {
 }
 
 .checkbox__item-text>input:checked+span::before {
-  background: url(/img/confirm.png) var(--link-color);
+  background: url(../img/confirm.png) var(--link-color);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -324,7 +324,7 @@ a {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
-  background: no-repeat 537px 30px url(/img/arrow.alt.down.svg);
+  background: no-repeat 537px 30px url(../img/arrow.alt.down.svg);
   cursor: pointer;
 }
 
@@ -355,7 +355,7 @@ a {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
-  background: no-repeat 215px 30px url(/img/arrow.alt.down.svg);
+  background: no-repeat 215px 30px url(../img/arrow.alt.down.svg);
   cursor: pointer;
 }
 
@@ -600,7 +600,7 @@ a {
   .recipient__fio {
     padding: 33px 37px 12px 14px;
     font-size: 17px;
-    background: no-repeat 287px 30px url(/img/arrow.alt.down.svg);
+    background: no-repeat 287px 30px url(../img/arrow.alt.down.svg);
     cursor: pointer;
     border-radius: 4px;
   }
@@ -628,7 +628,7 @@ a {
     margin-right: 16px;
     padding: 33px 40px 15px 16px;
     font-size: 17px;
-    background: no-repeat 160px 30px url(/img/arrow.alt.down.svg);
+    background: no-repeat 160px 30px url(../img/arrow.alt.down.svg);
     cursor: pointer;
     border-radius: 4px;
   }
